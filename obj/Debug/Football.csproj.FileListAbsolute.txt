@@ -1,0 +1,7 @@
+C:\Users\Nithya\Documents\Visual Studio 2017\Projects\Football\Football\bin\Debug\Football.exe.config
+C:\Users\Nithya\Documents\Visual Studio 2017\Projects\Football\Football\bin\Debug\Football.exe
+C:\Users\Nithya\Documents\Visual Studio 2017\Projects\Football\Football\bin\Debug\Football.pdb
+C:\Users\Nithya\Documents\Visual Studio 2017\Projects\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\Nithya\Documents\Visual Studio 2017\Projects\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\Documents\Visual Studio 2017\Projects\Football\Football\obj\Debug\Football.exe
+C:\Users\Nithya\Documents\Visual Studio 2017\Projects\Football\Football\obj\Debug\Football.pdb
